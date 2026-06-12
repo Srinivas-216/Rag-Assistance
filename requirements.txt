@@ -1,0 +1,25 @@
+
+fastapi
+uvicorn
+python-multipart
+pydantic
+
+# LangChain
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+langchain-core
+
+# Deep Agent
+langgraph
+
+# Embeddings
+sentence-transformers
+
+# PDF Extraction
+pypdf
+
+# Environment
+python-dotenv
